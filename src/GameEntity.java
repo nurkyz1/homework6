@@ -1,4 +1,4 @@
-public class GameEntity {
+public class  GameEntity   {
     private int health;
     private int damage;
 
@@ -19,6 +19,6 @@ public class GameEntity {
 
     }
 
-    public void setTypeWeapon(String s) {
-    }
+
+
 }
